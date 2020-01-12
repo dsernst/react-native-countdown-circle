@@ -2,7 +2,7 @@
   "name": "react-native-countdown-circle",
   "version": "3.0.1",
   "description": "A light-weight countdown circle indicator for React Native.",
-  "main": "src/index.js",
+  "main": "index.tsx",
   "scripts": {},
   "repository": {
     "type": "git",
